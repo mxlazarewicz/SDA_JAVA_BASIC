@@ -6,6 +6,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-
+        Ex7Array.arrayNumbers();
+        Ex8String.stringTraining();
     }
 }
