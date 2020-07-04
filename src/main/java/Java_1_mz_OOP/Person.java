@@ -28,7 +28,7 @@ public class Person {
 
     }
     public void introduce(){
-        System.out.println("Mam na imię " + this.name + "na nazwisko: " + this.surname);
+        System.out.println("Mam na imię " + this.name + " na nazwisko: " + this.surname +"mieszkam: " + getAddress());
     }
 //    public Person(String name, String surname, int age) {
 //        this.name = name;
